@@ -6,6 +6,8 @@ A sandbox for practicing Git and GitHub workflows. There is no application code,
 no build, and no test suite. Experiments here are meant to be created, broken,
 and discarded.
 
+See [README.md](README.md) for the landing-page description of the repo.
+
 ## Workflow rules
 
 These exist for practice. Follow them even when a change is trivial.

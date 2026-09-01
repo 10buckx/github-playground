@@ -5,6 +5,9 @@ pull requests, merges, and more.
 
 Nothing here is production code; it's a safe place to experiment and learn.
 
+How changes get made here — branches, pull requests, commit style — is written
+up in [CLAUDE.md](CLAUDE.md).
+
 ## What this is for
 
 - Practicing the core Git workflow: `add` → `commit` → `push`
