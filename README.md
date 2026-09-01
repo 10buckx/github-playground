@@ -1,24 +1,27 @@
 # GitHub Playground
 
-A personal sandbox for practicing Git and GitHub workflows — branching, commits,
-pull requests, and more.
+A personal sandbox for practicing Git and GitHub skills — branching, commits,
+pull requests, merges, and more.
 
-Nothing here is production code. Things get created, broken, and thrown away on
-purpose.
+Nothing here is production code; it's a safe place to experiment and learn.
 
-## What I'm practicing
+## What this is for
 
-- [ ] Branching and merging
-- [ ] Pull requests and code review
-- [ ] Issues and labels
-- [ ] Resolving merge conflicts
-- [ ] GitHub Actions
+- Practicing the core Git workflow: `add` → `commit` → `push`
+- Working with branches and pull requests
+- Trying out GitHub features without worrying about breaking anything
 
-## How this repo works
+## Getting started
 
-Every change reaches `main` through a branch and a pull request, even a one-line
-one. See [CLAUDE.md](CLAUDE.md) for the full workflow rules.
+```bash
+# Clone the repo
+git clone https://github.com/10buckx/github-playground.git
+cd github-playground
 
-## Notes
+# Make a change, then stage, commit, and push
+git add .
+git commit -m "Describe what you changed"
+git push
+```
 
-Scratch space. Expect experiments.
+*Created as a learning playground. Experiment freely!*
