@@ -27,6 +27,8 @@ These exist for practice. Follow them even when a change is trivial.
   update the README in the same PR.
 - `README.md` is for humans landing on the repo (what it is, how to use it);
   `CLAUDE.md` is how we work in here. Keep the two from contradicting each other.
+- The `What I'm practicing` checklist in the README tracks real progress. Tick an
+  item only once it has actually been done in this repo.
 - Same style as everything else: one H1, `##` sections, imperative mood, blank
   lines around headings and lists. Use relative links between repo files.
 

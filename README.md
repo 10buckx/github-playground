@@ -24,4 +24,12 @@ git commit -m "Describe what you changed"
 git push
 ```
 
+## What I'm practicing
+
+- [x] Branching and merging
+- [ ] Pull requests and code review
+- [ ] Issues and labels
+- [ ] Resolving merge conflicts
+- [ ] GitHub Actions
+
 *Created as a learning playground. Experiment freely!*
