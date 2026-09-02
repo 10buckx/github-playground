@@ -12,8 +12,6 @@ See [README.md](README.md) for the landing-page description of the repo.
 
 These exist for practice. Follow them even when a change is trivial.
 
-- Never commit directly to `main`. Always branch first.
-- Branch names: `kebab-case`, describing the change (`add-contributing-guide`).
 - Every change reaches `main` through a pull request, even a one-line one.
 - Do not merge a PR unless asked — opening it is usually the point of the exercise.
 - Delete the branch after merge.
